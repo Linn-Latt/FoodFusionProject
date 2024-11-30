@@ -858,7 +858,7 @@ footer a{
 /* For largeer Devices */
 @media screen and (min-width: 960px){
     .newcookbook{
-        background-image: url("./cookbook/images/newcookbookPC.png");
+        background-image: url("./cookbook/images/newcookbookPC.jpg");
     }
     .cookbookform{
         width: 50%;
